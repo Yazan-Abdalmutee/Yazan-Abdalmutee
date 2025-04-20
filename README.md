@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/>
   Yazan Abdalmutee | يزن عبدالمعطي
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/>
 </h1>
 
 <h3 align="center">
