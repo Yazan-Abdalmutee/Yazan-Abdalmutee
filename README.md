@@ -20,7 +20,6 @@
 
 ---
 
-<h2 align="left">🛠 Tech Stack</h2>
 
 <div align="center" style="font-size: 20px;">
 
