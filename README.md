@@ -1,50 +1,62 @@
-## 👋 Mohammad Abu-Shelbaia [ محمد أبو شلباية ]
+<h1 align="center">👋 Yazan Abdalmutee | يزن عبدالمعطي</h1>
+<p align="center">
+  <b>Computer Engineer | Android & Backend Developer</b><br>
+  Passionate about solving real-world problems through code.
+</p>
 
-`Computer Engineer` `Backend Developer`
-
-<p align="left">
-  <a href="https://mabushelbaia.github.io/" target="_blank">
-    <img alt="Personal Website" title="Personal Website" src="https://custom-icon-badges.demolab.com/badge/-Website-blue?style=for-the-badge&logoColor=white&logo=repo&cache_seconds=3600"/>
-    </a>
-  <a href="https://leetcode.com/mabushelbaia/" target="_blank"> <img alt="LeetCode" title="LeetCode" src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white&cache_seconds=3600"/> </a>
-  <a href="https://www.linkedin.com/in/mabushelbaia/" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&cache_seconds=3600"/>
-  </a>
-  <a href="https://github.com/mabushelbaia?tab=repositories&sort=stargazers" target="_blank">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mabushelbaia?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star&cache_seconds=3600"/>
-  </a>
-  <a href="https://github.com/mabushelbaia?tab=followers" target="_blank">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mabushelbaia?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
+<p align="center">
+  <a href="mailto:yazanshrouf7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yazan-abdalmutee"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/github/followers/yazanshrouf7?label=Follow&style=social" />
 </p>
 
 ---
 
-### 💻 Languages and Tools
-
-<p align="left">
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,django,tailwind,html,css,js,vscode,linux,c,java,latex,vscode,flask,bash">
-</p>
-
-#
+### 💻 Languages & Tools
 
 <p align="center">
-    <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&theme=vue&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&theme=vue&text_color=ffffff&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: dark)" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
-    </picture>
-    <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&theme=vue&text_color=ffffff&bg_color=00000000&hide_border=true&cache_seconds=3600&hide=c,css,html" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&theme=vue&bg_color=00000000&hide_border=true&cache_seconds=3600&hide=c,css,html" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&hide=c,css,html" />
-    </picture>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-<picture align=center>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mabushelbaia/mabushelbaia/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mabushelbaia/mabushelbaia/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mabushelbaia/mabushelbaia/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yazanshrouf7&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yazanshrouf7&theme=tokyonight" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazanshrouf7&layout=compact&theme=tokyonight" width="400"/>
+</p>
+
+---
+
+### 🗂 Recent GitHub Activity
+<p align="center">
+  <img src="https://github-contribution-graph.ezra.codes/api?username=yazanshrouf7&bg_color=transparent&color=2f80ed&line=2f80ed&point=40b3ff" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+If you’d like to collaborate or chat about a project:
+- 📧 **Email:** yazanshrouf7@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/yazan-abdalmutee](https://www.linkedin.com/in/yazan-abdalmutee)
+
+---
+
+<p align="center">✨ Building things that make life easier, one project at a time ✨</p>
