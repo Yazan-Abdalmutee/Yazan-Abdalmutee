@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Yazan Abdalmutee
+A passionate Computer Engineer | Android Developer | Backend Enthusiast
 
-<!--
-**Yazan-Abdalmutee/Yazan-Abdalmutee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a mobile app for campus navigation at BZU
+- 🌱 I’m learning Spring Boot and exploring backend development
+- 👯 I’m looking to collaborate on open-source Android projects
+- 💬 Ask me about Java, Android, or Data Structures
+- 📫 How to reach me: yazanshrouf7@gmail.com
+- ⚡ Fun fact: I love solving algorithm challenges and exploring maps!
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-05122A?style=flat&logo=springboot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Yazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazan123&show_icons=true&theme=radical)
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
